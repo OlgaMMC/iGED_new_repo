@@ -2,43 +2,67 @@
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="Weight" attr.type="long"/>
 <key id="d1" for="node" attr.name="weight" attr.type="float"/>
 <key id="d0" for="node" attr.name="rol" attr.type="string"/>
-<graph edgedefault="directed"><node id="MINCYT">
-  <data key="d0">Articulador</data>
-  <data key="d1">5.0</data>
+<graph edgedefault="directed"><node id="Santander">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.6</data>
 </node>
-<node id="UNLP">
-  <data key="d0">Generador de conocimiento</data>
+<node id="Sistema B">
+  <data key="d0">Habilitador</data>
+  <data key="d1">5.2</data>
+</node>
+<node id="EKHOS">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="GridX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">4.6</data>
+</node>
+<node id="NXTP Labs">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Trepcamp">
+  <data key="d0">Habilitador</data>
   <data key="d1">0.6</data>
+</node>
+<node id="UP">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CEDEX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Educación Argentina">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="54 Ventures">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Cámara Argentina de Fintech">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="UADE">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
 </node>
 <node id="Madre Emprendedora">
   <data key="d0">Habilitador</data>
   <data key="d1">0.6</data>
 </node>
-<node id="BACE Inversiones">
+<node id="Jaguar Ventures">
   <data key="d0">Habilitador</data>
-  <data key="d1">0.6</data>
+  <data key="d1">1.6</data>
 </node>
-<node id="SPU">
+<node id="AAICI">
   <data key="d0">Articulador</data>
   <data key="d1">4.0</data>
 </node>
-<node id="Prodem">
-  <data key="d0">Generador de conocimiento</data>
-  <data key="d1">0.6</data>
-</node>
-<node id="Endeavor Argentina">
-  <data key="d0">Habilitador</data>
-  <data key="d1">7.6</data>
-</node>
-<node id="ARCAP">
-  <data key="d0">Vinculador</data>
-  <data key="d1">10.0</data>
-</node>
-<node id="Ambiente y Desarrollo Sustentable Argentina">
-  <data key="d0">Articulador</data>
-  <data key="d1">1.4</data>
-</node>
-<node id="ProducciónPBA">
+<node id="CienciaPBA">
   <data key="d0">Articulador</data>
   <data key="d1">3.0</data>
 </node>
@@ -46,470 +70,200 @@
   <data key="d0">Articulador</data>
   <data key="d1">5.2</data>
 </node>
-<node id="Educación Argentina">
-  <data key="d0">Articulador</data>
-  <data key="d1">2.8</data>
-</node>
-<node id="Santander">
+<node id="Incubando Salud">
   <data key="d0">Habilitador</data>
-  <data key="d1">3.6</data>
+  <data key="d1">1.2</data>
 </node>
 <node id="IncUBAgro">
   <data key="d0">Habilitador</data>
   <data key="d1">1.6</data>
 </node>
-<node id="Wayra">
-  <data key="d0">Habilitador</data>
-  <data key="d1">3.8</data>
-</node>
-<node id="Instituto PYME Banco Ciudad">
-  <data key="d0">Habilitador</data>
-  <data key="d1">2.2</data>
-</node>
-<node id="UADE">
+<node id="UDESA">
   <data key="d0">Habilitador</data>
   <data key="d1">2.0</data>
-</node>
-<node id="Impact Hub">
-  <data key="d0">Habilitador</data>
-  <data key="d1">2.6</data>
-</node>
-<node id="Apertura">
-  <data key="d0">Promotor</data>
-  <data key="d1">1.6</data>
-</node>
-<node id="UP">
-  <data key="d0">Habilitador</data>
-  <data key="d1">0.6</data>
 </node>
 <node id="Santander Universidades">
   <data key="d0">Habilitador</data>
   <data key="d1">3.8</data>
 </node>
-<node id="UNSAM">
-  <data key="d0">Generador de conocimiento</data>
-  <data key="d1">1.8</data>
-</node>
-<node id="Ministerio de Producción y Trabajo">
+<node id="MINCYT">
   <data key="d0">Articulador</data>
-  <data key="d1">8.6</data>
+  <data key="d1">5.0</data>
 </node>
-<node id="ITBA">
-  <data key="d0">Generador de conocimiento</data>
-  <data key="d1">2.0</data>
-</node>
-<node id="BID">
-  <data key="d0">Habilitador</data>
-  <data key="d1">6.0</data>
-</node>
-<node id="Huerta Coworking">
-  <data key="d0">Habilitador</data>
-  <data key="d1">0.6</data>
-</node>
-<node id="Sistema B">
-  <data key="d0">Habilitador</data>
-  <data key="d1">5.2</data>
-</node>
-<node id="GridX">
-  <data key="d0">Habilitador</data>
-  <data key="d1">4.6</data>
-</node>
-<node id="Santander X">
-  <data key="d0">Habilitador</data>
-  <data key="d1">3.0</data>
-</node>
-<node id="CAMARCO">
-  <data key="d0">Vinculador</data>
-  <data key="d1">1.6</data>
-</node>
-<node id="IAE">
-  <data key="d0">Habilitador</data>
-  <data key="d1">7.0</data>
-</node>
-<node id="Venturebees">
-  <data key="d0">Habilitador</data>
-  <data key="d1">0.6</data>
-</node>
-<node id="NXTP Labs">
-  <data key="d0">Habilitador</data>
-  <data key="d1">2.2</data>
+<node id="Ambiente y Desarrollo Sustentable Argentina">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.4</data>
 </node>
 <node id="Dirección de Emprendedores GCBA">
   <data key="d0">Articulador</data>
   <data key="d1">8.4</data>
 </node>
-<node id="Incubando Salud">
+<node id="Venturebees">
   <data key="d0">Habilitador</data>
-  <data key="d1">1.2</data>
+  <data key="d1">0.6</data>
 </node>
-<node id="ASEA">
-  <data key="d0">Vinculador</data>
-  <data key="d1">9.4</data>
-</node>
-<node id="INICIA">
+<node id="A3">
   <data key="d0">Habilitador</data>
-  <data key="d1">2.6</data>
+  <data key="d1">3.0</data>
 </node>
 <node id="SEPYME">
   <data key="d0">Articulador</data>
   <data key="d1">16.8</data>
 </node>
-<node id="CEDEX">
-  <data key="d0">Habilitador</data>
-  <data key="d1">1.6</data>
-</node>
-<node id="54 Ventures">
-  <data key="d0">Habilitador</data>
-  <data key="d1">1.2</data>
-</node>
-<node id="EAN">
-  <data key="d0">Habilitador</data>
-  <data key="d1">0.6</data>
-</node>
-<node id="CienciaPBA">
-  <data key="d0">Articulador</data>
-  <data key="d1">3.0</data>
-</node>
-<node id="Ashoka">
-  <data key="d0">Habilitador</data>
-  <data key="d1">2.4</data>
-</node>
-<node id="Jaguar Ventures">
-  <data key="d0">Habilitador</data>
-  <data key="d1">1.6</data>
-</node>
-<node id="EKHOS">
-  <data key="d0">Habilitador</data>
-  <data key="d1">1.2</data>
-</node>
-<node id="AAICI">
-  <data key="d0">Articulador</data>
-  <data key="d1">4.0</data>
-</node>
-<node id="Socialab">
-  <data key="d0">Habilitador</data>
-  <data key="d1">2.6</data>
-</node>
-<node id="Trepcamp">
-  <data key="d0">Habilitador</data>
-  <data key="d1">0.6</data>
-</node>
-<node id="WeWork">
-  <data key="d0">Habilitador</data>
-  <data key="d1">1.6</data>
-</node>
-<node id="Cámara Argentina de Fintech">
-  <data key="d0">Vinculador</data>
-  <data key="d1">1.8</data>
-</node>
-<node id="The Yield Lab">
-  <data key="d0">Habilitador</data>
-  <data key="d1">0.6</data>
-</node>
-<node id="UBA">
-  <data key="d0">Generador de conocimiento</data>
-  <data key="d1">3.4</data>
-</node>
 <node id="EKLOS">
   <data key="d0">Habilitador</data>
   <data key="d1">2.4</data>
 </node>
-<node id="A3">
+<node id="SPU">
+  <data key="d0">Articulador</data>
+  <data key="d1">4.0</data>
+</node>
+<node id="Endeavor Argentina">
   <data key="d0">Habilitador</data>
+  <data key="d1">7.6</data>
+</node>
+<node id="Parabolt">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="ARCAP">
+  <data key="d0">Vinculador</data>
+  <data key="d1">10.0</data>
+</node>
+<node id="Impact Hub">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="ProducciónPBA">
+  <data key="d0">Articulador</data>
   <data key="d1">3.0</data>
 </node>
 <node id="UNICEN">
   <data key="d0">Generador de conocimiento</data>
   <data key="d1">1.6</data>
 </node>
-<node id="UNAJE">
-  <data key="d0">Vinculador</data>
-  <data key="d1">1.6</data>
-</node>
-<node id="Parabolt">
+<node id="Wayra">
   <data key="d0">Habilitador</data>
-  <data key="d1">2.4</data>
-</node>
-<node id="Club Trama">
-  <data key="d0">Comunidad</data>
-  <data key="d1">1.8</data>
-</node>
-<node id="Mayma">
-  <data key="d0">Habilitador</data>
-  <data key="d1">1.8</data>
-</node>
-<node id="UDESA">
-  <data key="d0">Habilitador</data>
-  <data key="d1">2.0</data>
-</node>
-<node id="Hacela Rodar">
-  <data key="d0">Habilitador</data>
-  <data key="d1">0.6</data>
-</node>
-<node id="GCBA">
-  <data key="d0">Articulador</data>
-  <data key="d1">7.6</data>
+  <data key="d1">3.8</data>
 </node>
 <node id="CAME">
   <data key="d0">Vinculador</data>
   <data key="d1">2.6</data>
 </node>
-<edge source="MINCYT" target="Venturebees">
-  <data key="d2">1</data>
-</edge>
-<edge source="MINCYT" target="GCBA">
-  <data key="d2">1</data>
-</edge>
-<edge source="UNLP" target="Ministerio de Producción y Trabajo">
-  <data key="d2">1</data>
-</edge>
-<edge source="UNLP" target="SEPYME">
-  <data key="d2">3</data>
-</edge>
-<edge source="UNLP" target="CienciaPBA">
-  <data key="d2">3</data>
-</edge>
-<edge source="UNLP" target="Santander">
-  <data key="d2">3</data>
-</edge>
-<edge source="Madre Emprendedora" target="Instituto PYME Banco Ciudad">
-  <data key="d2">5</data>
-</edge>
-<edge source="Madre Emprendedora" target="ProducciónPBA">
-  <data key="d2">3</data>
-</edge>
-<edge source="Madre Emprendedora" target="GCBA">
-  <data key="d2">3</data>
-</edge>
-<edge source="Madre Emprendedora" target="IAE">
-  <data key="d2">3</data>
-</edge>
-<edge source="Madre Emprendedora" target="CEDEX">
-  <data key="d2">3</data>
-</edge>
-<edge source="Madre Emprendedora" target="Mayma">
-  <data key="d2">3</data>
-</edge>
-<edge source="Madre Emprendedora" target="SEPYME">
-  <data key="d2">3</data>
-</edge>
-<edge source="BACE Inversiones" target="ARCAP">
-  <data key="d2">2</data>
-</edge>
-<edge source="BACE Inversiones" target="SEPYME">
-  <data key="d2">3</data>
-</edge>
-<edge source="BACE Inversiones" target="Incubando Salud">
-  <data key="d2">3</data>
-</edge>
-<edge source="BACE Inversiones" target="Endeavor Argentina">
-  <data key="d2">3</data>
-</edge>
-<edge source="BACE Inversiones" target="54 Ventures">
-  <data key="d2">3</data>
-</edge>
-<edge source="BACE Inversiones" target="WeWork">
-  <data key="d2">3</data>
-</edge>
-<edge source="BACE Inversiones" target="IAE">
-  <data key="d2">3</data>
-</edge>
-<edge source="BACE Inversiones" target="Ministerio de Producción y Trabajo">
-  <data key="d2">5</data>
-</edge>
-<edge source="BACE Inversiones" target="ASEA">
-  <data key="d2">1</data>
-</edge>
-<edge source="BACE Inversiones" target="Parabolt">
-  <data key="d2">2</data>
-</edge>
-<edge source="SPU" target="UNLP">
-  <data key="d2">5</data>
-</edge>
-<edge source="Prodem" target="BID">
-  <data key="d2">3</data>
-</edge>
-<edge source="Prodem" target="ARCAP">
-  <data key="d2">3</data>
-</edge>
-<edge source="Endeavor Argentina" target="SEPYME">
-  <data key="d2">4</data>
-</edge>
-<edge source="Endeavor Argentina" target="MINCYT">
-  <data key="d2">4</data>
-</edge>
-<edge source="Endeavor Argentina" target="UDESA">
-  <data key="d2">4</data>
-</edge>
-<edge source="Endeavor Argentina" target="BID">
-  <data key="d2">4</data>
-</edge>
-<edge source="Endeavor Argentina" target="Jaguar Ventures">
-  <data key="d2">3</data>
-</edge>
-<edge source="ARCAP" target="ASEA">
-  <data key="d2">3</data>
-</edge>
-<edge source="ARCAP" target="SEPYME">
-  <data key="d2">3</data>
-</edge>
-<edge source="ARCAP" target="BID">
-  <data key="d2">5</data>
-</edge>
-<edge source="ARCAP" target="CEDEX">
-  <data key="d2">3</data>
-</edge>
-<edge source="ARCAP" target="Club Trama">
-  <data key="d2">3</data>
-</edge>
-<edge source="Ambiente y Desarrollo Sustentable Argentina" target="Dirección de Emprendedores GCBA">
-  <data key="d2">5</data>
-</edge>
-<edge source="ProducciónPBA" target="AAICI">
-  <data key="d2">1</data>
-</edge>
-<edge source="ProducciónPBA" target="Huerta Coworking">
-  <data key="d2">1</data>
-</edge>
-<edge source="ProducciónPBA" target="CienciaPBA">
-  <data key="d2">3</data>
-</edge>
-<edge source="ProducciónPBA" target="SEPYME">
-  <data key="d2">1</data>
-</edge>
+<node id="EAN">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Apertura">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Ashoka">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="CAMARCO">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Prodem">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Instituto PYME Banco Ciudad">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="UBA">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">3.4</data>
+</node>
+<node id="ASEA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">9.4</data>
+</node>
+<node id="Santander X">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="Huerta Coworking">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="BACE Inversiones">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UNLP">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ITBA">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="UNSAM">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="Socialab">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="The Yield Lab">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Club Trama">
+  <data key="d0">Comunidad</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="UNAJE">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Hacela Rodar">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Mayma">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="INICIA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="WeWork">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="BID">
+  <data key="d0">Habilitador</data>
+  <data key="d1">6.0</data>
+</node>
+<node id="IAE">
+  <data key="d0">Habilitador</data>
+  <data key="d1">7.0</data>
+</node>
+<node id="Ministerio de Producción y Trabajo">
+  <data key="d0">Articulador</data>
+  <data key="d1">8.6</data>
+</node>
+<node id="GCBA">
+  <data key="d0">Articulador</data>
+  <data key="d1">7.6</data>
+</node>
 <edge source="Santander" target="Venturebees">
   <data key="d2">4</data>
 </edge>
-<edge source="IncUBAgro" target="SEPYME">
-  <data key="d2">3</data>
-</edge>
-<edge source="IncUBAgro" target="SPU">
+<edge source="EKHOS" target="UADE">
   <data key="d2">4</data>
 </edge>
-<edge source="IncUBAgro" target="UNSAM">
-  <data key="d2">3</data>
-</edge>
-<edge source="Wayra" target="A3">
-  <data key="d2">3</data>
-</edge>
-<edge source="Wayra" target="SEPYME">
-  <data key="d2">5</data>
-</edge>
-<edge source="Wayra" target="Endeavor Argentina">
-  <data key="d2">4</data>
-</edge>
-<edge source="Wayra" target="Jaguar Ventures">
+<edge source="EKHOS" target="UBA">
   <data key="d2">2</data>
 </edge>
-<edge source="Wayra" target="Prodem">
-  <data key="d2">5</data>
-</edge>
-<edge source="UADE" target="GCBA">
-  <data key="d2">4</data>
-</edge>
-<edge source="UADE" target="SEPYME">
-  <data key="d2">1</data>
-</edge>
-<edge source="UADE" target="EKLOS">
-  <data key="d2">3</data>
-</edge>
-<edge source="UADE" target="ProducciónPBA">
-  <data key="d2">1</data>
-</edge>
-<edge source="UADE" target="MINCYT">
-  <data key="d2">3</data>
-</edge>
-<edge source="UADE" target="Educación Argentina">
-  <data key="d2">3</data>
-</edge>
-<edge source="Impact Hub" target="Ambiente y Desarrollo Sustentable Argentina">
-  <data key="d2">1</data>
-</edge>
-<edge source="Impact Hub" target="BID">
-  <data key="d2">1</data>
-</edge>
-<edge source="Impact Hub" target="GCBA">
-  <data key="d2">1</data>
-</edge>
-<edge source="Impact Hub" target="Hacela Rodar">
-  <data key="d2">1</data>
-</edge>
-<edge source="UP" target="Ministerio de Producción y Trabajo">
-  <data key="d2">5</data>
-</edge>
-<edge source="UP" target="INICIA">
-  <data key="d2">3</data>
-</edge>
-<edge source="UP" target="SEPYME">
-  <data key="d2">5</data>
-</edge>
-<edge source="UP" target="Santander">
-  <data key="d2">3</data>
-</edge>
-<edge source="UP" target="Sistema B">
-  <data key="d2">3</data>
-</edge>
-<edge source="UP" target="GCBA">
-  <data key="d2">3</data>
-</edge>
-<edge source="UP" target="AAICI">
-  <data key="d2">3</data>
-</edge>
-<edge source="UNSAM" target="MINCYT">
-  <data key="d2">5</data>
-</edge>
-<edge source="Ministerio de Producción y Trabajo" target="Hacela Rodar">
-  <data key="d2">2</data>
-</edge>
-<edge source="ITBA" target="MINCYT">
-  <data key="d2">3</data>
-</edge>
-<edge source="ITBA" target="Cámara Argentina de Fintech">
-  <data key="d2">3</data>
-</edge>
-<edge source="ITBA" target="CAME">
-  <data key="d2">4</data>
-</edge>
-<edge source="ITBA" target="CONICET">
-  <data key="d2">5</data>
-</edge>
-<edge source="ITBA" target="Dirección de Emprendedores GCBA">
-  <data key="d2">2</data>
-</edge>
-<edge source="ITBA" target="Endeavor Argentina">
-  <data key="d2">3</data>
-</edge>
-<edge source="ITBA" target="Apertura">
-  <data key="d2">4</data>
-</edge>
-<edge source="ITBA" target="CienciaPBA">
-  <data key="d2">3</data>
-</edge>
-<edge source="ITBA" target="Santander Universidades">
-  <data key="d2">3</data>
-</edge>
-<edge source="ITBA" target="Santander X">
-  <data key="d2">3</data>
-</edge>
-<edge source="ITBA" target="UNLP">
-  <data key="d2">4</data>
-</edge>
-<edge source="BID" target="Socialab">
-  <data key="d2">4</data>
-</edge>
-<edge source="Huerta Coworking" target="Sistema B">
-  <data key="d2">3</data>
-</edge>
-<edge source="Huerta Coworking" target="IAE">
-  <data key="d2">5</data>
-</edge>
-<edge source="Huerta Coworking" target="Apertura">
-  <data key="d2">1</data>
-</edge>
-<edge source="Huerta Coworking" target="SEPYME">
-  <data key="d2">3</data>
-</edge>
-<edge source="Huerta Coworking" target="Endeavor Argentina">
+<edge source="EKHOS" target="GCBA">
   <data key="d2">3</data>
 </edge>
 <edge source="GridX" target="CONICET">
@@ -539,29 +293,158 @@
 <edge source="GridX" target="Dirección de Emprendedores GCBA">
   <data key="d2">4</data>
 </edge>
-<edge source="Santander X" target="ASEA">
-  <data key="d2">1</data>
-</edge>
-<edge source="Santander X" target="Venturebees">
-  <data key="d2">1</data>
-</edge>
-<edge source="Venturebees" target="GCBA">
-  <data key="d2">3</data>
-</edge>
-<edge source="Venturebees" target="ASEA">
-  <data key="d2">3</data>
-</edge>
-<edge source="Venturebees" target="IAE">
-  <data key="d2">4</data>
-</edge>
-<edge source="Venturebees" target="SEPYME">
-  <data key="d2">2</data>
-</edge>
 <edge source="NXTP Labs" target="Endeavor Argentina">
   <data key="d2">3</data>
 </edge>
 <edge source="NXTP Labs" target="Jaguar Ventures">
   <data key="d2">2</data>
+</edge>
+<edge source="Trepcamp" target="Santander">
+  <data key="d2">5</data>
+</edge>
+<edge source="Trepcamp" target="UBA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Trepcamp" target="UNLP">
+  <data key="d2">3</data>
+</edge>
+<edge source="Trepcamp" target="Santander X">
+  <data key="d2">5</data>
+</edge>
+<edge source="Trepcamp" target="Santander Universidades">
+  <data key="d2">3</data>
+</edge>
+<edge source="Trepcamp" target="UADE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Trepcamp" target="UDESA">
+  <data key="d2">3</data>
+</edge>
+<edge source="UP" target="Ministerio de Producción y Trabajo">
+  <data key="d2">5</data>
+</edge>
+<edge source="UP" target="INICIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="UP" target="SEPYME">
+  <data key="d2">5</data>
+</edge>
+<edge source="UP" target="Santander">
+  <data key="d2">3</data>
+</edge>
+<edge source="UP" target="Sistema B">
+  <data key="d2">3</data>
+</edge>
+<edge source="UP" target="GCBA">
+  <data key="d2">3</data>
+</edge>
+<edge source="UP" target="AAICI">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEDEX" target="SEPYME">
+  <data key="d2">4</data>
+</edge>
+<edge source="CEDEX" target="IAE">
+  <data key="d2">2</data>
+</edge>
+<edge source="CEDEX" target="AAICI">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEDEX" target="Ministerio de Producción y Trabajo">
+  <data key="d2">5</data>
+</edge>
+<edge source="54 Ventures" target="Apertura">
+  <data key="d2">3</data>
+</edge>
+<edge source="54 Ventures" target="ARCAP">
+  <data key="d2">5</data>
+</edge>
+<edge source="54 Ventures" target="ASEA">
+  <data key="d2">5</data>
+</edge>
+<edge source="54 Ventures" target="Ministerio de Producción y Trabajo">
+  <data key="d2">3</data>
+</edge>
+<edge source="UADE" target="GCBA">
+  <data key="d2">4</data>
+</edge>
+<edge source="UADE" target="SEPYME">
+  <data key="d2">1</data>
+</edge>
+<edge source="UADE" target="EKLOS">
+  <data key="d2">3</data>
+</edge>
+<edge source="UADE" target="ProducciónPBA">
+  <data key="d2">1</data>
+</edge>
+<edge source="UADE" target="MINCYT">
+  <data key="d2">3</data>
+</edge>
+<edge source="UADE" target="Educación Argentina">
+  <data key="d2">3</data>
+</edge>
+<edge source="Madre Emprendedora" target="Instituto PYME Banco Ciudad">
+  <data key="d2">5</data>
+</edge>
+<edge source="Madre Emprendedora" target="ProducciónPBA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Madre Emprendedora" target="GCBA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Madre Emprendedora" target="IAE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Madre Emprendedora" target="CEDEX">
+  <data key="d2">3</data>
+</edge>
+<edge source="Madre Emprendedora" target="Mayma">
+  <data key="d2">3</data>
+</edge>
+<edge source="Madre Emprendedora" target="SEPYME">
+  <data key="d2">3</data>
+</edge>
+<edge source="Jaguar Ventures" target="SEPYME">
+  <data key="d2">4</data>
+</edge>
+<edge source="Jaguar Ventures" target="ARCAP">
+  <data key="d2">3</data>
+</edge>
+<edge source="Jaguar Ventures" target="ASEA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Jaguar Ventures" target="WeWork">
+  <data key="d2">2</data>
+</edge>
+<edge source="AAICI" target="Endeavor Argentina">
+  <data key="d2">4</data>
+</edge>
+<edge source="Incubando Salud" target="ASEA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incubando Salud" target="IAE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incubando Salud" target="ARCAP">
+  <data key="d2">3</data>
+</edge>
+<edge source="IncUBAgro" target="SEPYME">
+  <data key="d2">3</data>
+</edge>
+<edge source="IncUBAgro" target="SPU">
+  <data key="d2">4</data>
+</edge>
+<edge source="IncUBAgro" target="UNSAM">
+  <data key="d2">3</data>
+</edge>
+<edge source="MINCYT" target="Venturebees">
+  <data key="d2">1</data>
+</edge>
+<edge source="MINCYT" target="GCBA">
+  <data key="d2">1</data>
+</edge>
+<edge source="Ambiente y Desarrollo Sustentable Argentina" target="Dirección de Emprendedores GCBA">
+  <data key="d2">5</data>
 </edge>
 <edge source="Dirección de Emprendedores GCBA" target="UP">
   <data key="d2">5</data>
@@ -611,13 +494,232 @@
 <edge source="Dirección de Emprendedores GCBA" target="IAE">
   <data key="d2">3</data>
 </edge>
-<edge source="Incubando Salud" target="ASEA">
+<edge source="Venturebees" target="GCBA">
   <data key="d2">3</data>
 </edge>
-<edge source="Incubando Salud" target="IAE">
+<edge source="Venturebees" target="ASEA">
   <data key="d2">3</data>
 </edge>
-<edge source="Incubando Salud" target="ARCAP">
+<edge source="Venturebees" target="IAE">
+  <data key="d2">4</data>
+</edge>
+<edge source="Venturebees" target="SEPYME">
+  <data key="d2">2</data>
+</edge>
+<edge source="A3" target="CEDEX">
+  <data key="d2">3</data>
+</edge>
+<edge source="A3" target="CAME">
+  <data key="d2">3</data>
+</edge>
+<edge source="A3" target="Cámara Argentina de Fintech">
+  <data key="d2">3</data>
+</edge>
+<edge source="A3" target="Socialab">
+  <data key="d2">3</data>
+</edge>
+<edge source="A3" target="Mayma">
+  <data key="d2">3</data>
+</edge>
+<edge source="A3" target="Ashoka">
+  <data key="d2">3</data>
+</edge>
+<edge source="A3" target="Dirección de Emprendedores GCBA">
+  <data key="d2">3</data>
+</edge>
+<edge source="SEPYME" target="GridX">
+  <data key="d2">5</data>
+</edge>
+<edge source="SEPYME" target="A3">
+  <data key="d2">2</data>
+</edge>
+<edge source="SEPYME" target="ARCAP">
+  <data key="d2">5</data>
+</edge>
+<edge source="SEPYME" target="AAICI">
+  <data key="d2">4</data>
+</edge>
+<edge source="SEPYME" target="ProducciónPBA">
+  <data key="d2">3</data>
+</edge>
+<edge source="SEPYME" target="CAMARCO">
+  <data key="d2">1</data>
+</edge>
+<edge source="SEPYME" target="Prodem">
+  <data key="d2">5</data>
+</edge>
+<edge source="SEPYME" target="Dirección de Emprendedores GCBA">
+  <data key="d2">5</data>
+</edge>
+<edge source="SEPYME" target="Parabolt">
+  <data key="d2">1</data>
+</edge>
+<edge source="EKLOS" target="A3">
+  <data key="d2">3</data>
+</edge>
+<edge source="EKLOS" target="Endeavor Argentina">
+  <data key="d2">3</data>
+</edge>
+<edge source="SPU" target="UNLP">
+  <data key="d2">5</data>
+</edge>
+<edge source="Endeavor Argentina" target="SEPYME">
+  <data key="d2">4</data>
+</edge>
+<edge source="Endeavor Argentina" target="MINCYT">
+  <data key="d2">4</data>
+</edge>
+<edge source="Endeavor Argentina" target="UDESA">
+  <data key="d2">4</data>
+</edge>
+<edge source="Endeavor Argentina" target="BID">
+  <data key="d2">4</data>
+</edge>
+<edge source="Endeavor Argentina" target="Jaguar Ventures">
+  <data key="d2">3</data>
+</edge>
+<edge source="Parabolt" target="SEPYME">
+  <data key="d2">5</data>
+</edge>
+<edge source="Parabolt" target="CAMARCO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Parabolt" target="UNICEN">
+  <data key="d2">5</data>
+</edge>
+<edge source="Parabolt" target="UBA">
+  <data key="d2">4</data>
+</edge>
+<edge source="Parabolt" target="Endeavor Argentina">
+  <data key="d2">2</data>
+</edge>
+<edge source="Parabolt" target="ASEA">
+  <data key="d2">2</data>
+</edge>
+<edge source="Parabolt" target="CienciaPBA">
+  <data key="d2">3</data>
+</edge>
+<edge source="ARCAP" target="ASEA">
+  <data key="d2">3</data>
+</edge>
+<edge source="ARCAP" target="SEPYME">
+  <data key="d2">3</data>
+</edge>
+<edge source="ARCAP" target="BID">
+  <data key="d2">5</data>
+</edge>
+<edge source="ARCAP" target="CEDEX">
+  <data key="d2">3</data>
+</edge>
+<edge source="ARCAP" target="Club Trama">
+  <data key="d2">3</data>
+</edge>
+<edge source="Impact Hub" target="Ambiente y Desarrollo Sustentable Argentina">
+  <data key="d2">1</data>
+</edge>
+<edge source="Impact Hub" target="BID">
+  <data key="d2">1</data>
+</edge>
+<edge source="Impact Hub" target="GCBA">
+  <data key="d2">1</data>
+</edge>
+<edge source="Impact Hub" target="Hacela Rodar">
+  <data key="d2">1</data>
+</edge>
+<edge source="ProducciónPBA" target="AAICI">
+  <data key="d2">1</data>
+</edge>
+<edge source="ProducciónPBA" target="Huerta Coworking">
+  <data key="d2">1</data>
+</edge>
+<edge source="ProducciónPBA" target="CienciaPBA">
+  <data key="d2">3</data>
+</edge>
+<edge source="ProducciónPBA" target="SEPYME">
+  <data key="d2">1</data>
+</edge>
+<edge source="UNICEN" target="SEPYME">
+  <data key="d2">3</data>
+</edge>
+<edge source="UNICEN" target="CONICET">
+  <data key="d2">3</data>
+</edge>
+<edge source="UNICEN" target="SPU">
+  <data key="d2">3</data>
+</edge>
+<edge source="Wayra" target="A3">
+  <data key="d2">3</data>
+</edge>
+<edge source="Wayra" target="SEPYME">
+  <data key="d2">5</data>
+</edge>
+<edge source="Wayra" target="Endeavor Argentina">
+  <data key="d2">4</data>
+</edge>
+<edge source="Wayra" target="Jaguar Ventures">
+  <data key="d2">2</data>
+</edge>
+<edge source="Wayra" target="Prodem">
+  <data key="d2">5</data>
+</edge>
+<edge source="EAN" target="SEPYME">
+  <data key="d2">2</data>
+</edge>
+<edge source="EAN" target="ARCAP">
+  <data key="d2">1</data>
+</edge>
+<edge source="EAN" target="ASEA">
+  <data key="d2">3</data>
+</edge>
+<edge source="EAN" target="CienciaPBA">
+  <data key="d2">3</data>
+</edge>
+<edge source="EAN" target="Ministerio de Producción y Trabajo">
+  <data key="d2">5</data>
+</edge>
+<edge source="EAN" target="Educación Argentina">
+  <data key="d2">5</data>
+</edge>
+<edge source="EAN" target="Endeavor Argentina">
+  <data key="d2">3</data>
+</edge>
+<edge source="EAN" target="Sistema B">
+  <data key="d2">3</data>
+</edge>
+<edge source="EAN" target="Santander Universidades">
+  <data key="d2">3</data>
+</edge>
+<edge source="EAN" target="Santander X">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ashoka" target="INICIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Prodem" target="BID">
+  <data key="d2">3</data>
+</edge>
+<edge source="Prodem" target="ARCAP">
+  <data key="d2">3</data>
+</edge>
+<edge source="UBA" target="Santander Universidades">
+  <data key="d2">5</data>
+</edge>
+<edge source="UBA" target="IncUBAgro">
+  <data key="d2">5</data>
+</edge>
+<edge source="UBA" target="Dirección de Emprendedores GCBA">
+  <data key="d2">3</data>
+</edge>
+<edge source="UBA" target="SPU">
+  <data key="d2">5</data>
+</edge>
+<edge source="UBA" target="MINCYT">
+  <data key="d2">3</data>
+</edge>
+<edge source="UBA" target="Educación Argentina">
+  <data key="d2">3</data>
+</edge>
+<edge source="UBA" target="ASEA">
   <data key="d2">3</data>
 </edge>
 <edge source="ASEA" target="A3">
@@ -662,128 +764,104 @@
 <edge source="ASEA" target="CAME">
   <data key="d2">3</data>
 </edge>
-<edge source="INICIA" target="SEPYME">
+<edge source="Santander X" target="ASEA">
   <data key="d2">1</data>
 </edge>
-<edge source="INICIA" target="Instituto PYME Banco Ciudad">
-  <data key="d2">3</data>
-</edge>
-<edge source="INICIA" target="Ministerio de Producción y Trabajo">
-  <data key="d2">3</data>
-</edge>
-<edge source="INICIA" target="Dirección de Emprendedores GCBA">
-  <data key="d2">3</data>
-</edge>
-<edge source="INICIA" target="Sistema B">
-  <data key="d2">3</data>
-</edge>
-<edge source="SEPYME" target="GridX">
-  <data key="d2">5</data>
-</edge>
-<edge source="SEPYME" target="A3">
-  <data key="d2">2</data>
-</edge>
-<edge source="SEPYME" target="ARCAP">
-  <data key="d2">5</data>
-</edge>
-<edge source="SEPYME" target="AAICI">
-  <data key="d2">4</data>
-</edge>
-<edge source="SEPYME" target="ProducciónPBA">
-  <data key="d2">3</data>
-</edge>
-<edge source="SEPYME" target="CAMARCO">
+<edge source="Santander X" target="Venturebees">
   <data key="d2">1</data>
 </edge>
-<edge source="SEPYME" target="Prodem">
+<edge source="Huerta Coworking" target="Sistema B">
+  <data key="d2">3</data>
+</edge>
+<edge source="Huerta Coworking" target="IAE">
   <data key="d2">5</data>
 </edge>
-<edge source="SEPYME" target="Dirección de Emprendedores GCBA">
-  <data key="d2">5</data>
-</edge>
-<edge source="SEPYME" target="Parabolt">
+<edge source="Huerta Coworking" target="Apertura">
   <data key="d2">1</data>
 </edge>
-<edge source="CEDEX" target="SEPYME">
-  <data key="d2">4</data>
+<edge source="Huerta Coworking" target="SEPYME">
+  <data key="d2">3</data>
 </edge>
-<edge source="CEDEX" target="IAE">
+<edge source="Huerta Coworking" target="Endeavor Argentina">
+  <data key="d2">3</data>
+</edge>
+<edge source="BACE Inversiones" target="ARCAP">
   <data key="d2">2</data>
 </edge>
-<edge source="CEDEX" target="AAICI">
+<edge source="BACE Inversiones" target="SEPYME">
   <data key="d2">3</data>
 </edge>
-<edge source="CEDEX" target="Ministerio de Producción y Trabajo">
-  <data key="d2">5</data>
-</edge>
-<edge source="54 Ventures" target="Apertura">
+<edge source="BACE Inversiones" target="Incubando Salud">
   <data key="d2">3</data>
 </edge>
-<edge source="54 Ventures" target="ARCAP">
-  <data key="d2">5</data>
-</edge>
-<edge source="54 Ventures" target="ASEA">
-  <data key="d2">5</data>
-</edge>
-<edge source="54 Ventures" target="Ministerio de Producción y Trabajo">
+<edge source="BACE Inversiones" target="Endeavor Argentina">
   <data key="d2">3</data>
 </edge>
-<edge source="EAN" target="SEPYME">
-  <data key="d2">2</data>
+<edge source="BACE Inversiones" target="54 Ventures">
+  <data key="d2">3</data>
 </edge>
-<edge source="EAN" target="ARCAP">
+<edge source="BACE Inversiones" target="WeWork">
+  <data key="d2">3</data>
+</edge>
+<edge source="BACE Inversiones" target="IAE">
+  <data key="d2">3</data>
+</edge>
+<edge source="BACE Inversiones" target="Ministerio de Producción y Trabajo">
+  <data key="d2">5</data>
+</edge>
+<edge source="BACE Inversiones" target="ASEA">
   <data key="d2">1</data>
 </edge>
-<edge source="EAN" target="ASEA">
-  <data key="d2">3</data>
-</edge>
-<edge source="EAN" target="CienciaPBA">
-  <data key="d2">3</data>
-</edge>
-<edge source="EAN" target="Ministerio de Producción y Trabajo">
-  <data key="d2">5</data>
-</edge>
-<edge source="EAN" target="Educación Argentina">
-  <data key="d2">5</data>
-</edge>
-<edge source="EAN" target="Endeavor Argentina">
-  <data key="d2">3</data>
-</edge>
-<edge source="EAN" target="Sistema B">
-  <data key="d2">3</data>
-</edge>
-<edge source="EAN" target="Santander Universidades">
-  <data key="d2">3</data>
-</edge>
-<edge source="EAN" target="Santander X">
-  <data key="d2">3</data>
-</edge>
-<edge source="Ashoka" target="INICIA">
-  <data key="d2">3</data>
-</edge>
-<edge source="Jaguar Ventures" target="SEPYME">
-  <data key="d2">4</data>
-</edge>
-<edge source="Jaguar Ventures" target="ARCAP">
-  <data key="d2">3</data>
-</edge>
-<edge source="Jaguar Ventures" target="ASEA">
-  <data key="d2">3</data>
-</edge>
-<edge source="Jaguar Ventures" target="WeWork">
+<edge source="BACE Inversiones" target="Parabolt">
   <data key="d2">2</data>
 </edge>
-<edge source="EKHOS" target="UADE">
-  <data key="d2">4</data>
+<edge source="UNLP" target="Ministerio de Producción y Trabajo">
+  <data key="d2">1</data>
 </edge>
-<edge source="EKHOS" target="UBA">
-  <data key="d2">2</data>
-</edge>
-<edge source="EKHOS" target="GCBA">
+<edge source="UNLP" target="SEPYME">
   <data key="d2">3</data>
 </edge>
-<edge source="AAICI" target="Endeavor Argentina">
+<edge source="UNLP" target="CienciaPBA">
+  <data key="d2">3</data>
+</edge>
+<edge source="UNLP" target="Santander">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITBA" target="MINCYT">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITBA" target="Cámara Argentina de Fintech">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITBA" target="CAME">
   <data key="d2">4</data>
+</edge>
+<edge source="ITBA" target="CONICET">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITBA" target="Dirección de Emprendedores GCBA">
+  <data key="d2">2</data>
+</edge>
+<edge source="ITBA" target="Endeavor Argentina">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITBA" target="Apertura">
+  <data key="d2">4</data>
+</edge>
+<edge source="ITBA" target="CienciaPBA">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITBA" target="Santander Universidades">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITBA" target="Santander X">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITBA" target="UNLP">
+  <data key="d2">4</data>
+</edge>
+<edge source="UNSAM" target="MINCYT">
+  <data key="d2">5</data>
 </edge>
 <edge source="Socialab" target="Sistema B">
   <data key="d2">5</data>
@@ -806,27 +884,6 @@
 <edge source="Socialab" target="EKHOS">
   <data key="d2">3</data>
 </edge>
-<edge source="Trepcamp" target="Santander">
-  <data key="d2">5</data>
-</edge>
-<edge source="Trepcamp" target="UBA">
-  <data key="d2">3</data>
-</edge>
-<edge source="Trepcamp" target="UNLP">
-  <data key="d2">3</data>
-</edge>
-<edge source="Trepcamp" target="Santander X">
-  <data key="d2">5</data>
-</edge>
-<edge source="Trepcamp" target="Santander Universidades">
-  <data key="d2">3</data>
-</edge>
-<edge source="Trepcamp" target="UADE">
-  <data key="d2">3</data>
-</edge>
-<edge source="Trepcamp" target="UDESA">
-  <data key="d2">3</data>
-</edge>
 <edge source="The Yield Lab" target="AAICI">
   <data key="d2">3</data>
 </edge>
@@ -839,62 +896,14 @@
 <edge source="The Yield Lab" target="CAMARCO">
   <data key="d2">3</data>
 </edge>
-<edge source="UBA" target="Santander Universidades">
-  <data key="d2">5</data>
+<edge source="Club Trama" target="ITBA">
+  <data key="d2">1</data>
 </edge>
-<edge source="UBA" target="IncUBAgro">
-  <data key="d2">5</data>
+<edge source="Club Trama" target="A3">
+  <data key="d2">1</data>
 </edge>
-<edge source="UBA" target="Dirección de Emprendedores GCBA">
-  <data key="d2">3</data>
-</edge>
-<edge source="UBA" target="SPU">
-  <data key="d2">5</data>
-</edge>
-<edge source="UBA" target="MINCYT">
-  <data key="d2">3</data>
-</edge>
-<edge source="UBA" target="Educación Argentina">
-  <data key="d2">3</data>
-</edge>
-<edge source="UBA" target="ASEA">
-  <data key="d2">3</data>
-</edge>
-<edge source="EKLOS" target="A3">
-  <data key="d2">3</data>
-</edge>
-<edge source="EKLOS" target="Endeavor Argentina">
-  <data key="d2">3</data>
-</edge>
-<edge source="A3" target="CEDEX">
-  <data key="d2">3</data>
-</edge>
-<edge source="A3" target="CAME">
-  <data key="d2">3</data>
-</edge>
-<edge source="A3" target="Cámara Argentina de Fintech">
-  <data key="d2">3</data>
-</edge>
-<edge source="A3" target="Socialab">
-  <data key="d2">3</data>
-</edge>
-<edge source="A3" target="Mayma">
-  <data key="d2">3</data>
-</edge>
-<edge source="A3" target="Ashoka">
-  <data key="d2">3</data>
-</edge>
-<edge source="A3" target="Dirección de Emprendedores GCBA">
-  <data key="d2">3</data>
-</edge>
-<edge source="UNICEN" target="SEPYME">
-  <data key="d2">3</data>
-</edge>
-<edge source="UNICEN" target="CONICET">
-  <data key="d2">3</data>
-</edge>
-<edge source="UNICEN" target="SPU">
-  <data key="d2">3</data>
+<edge source="Club Trama" target="Dirección de Emprendedores GCBA">
+  <data key="d2">1</data>
 </edge>
 <edge source="UNAJE" target="A3">
   <data key="d2">3</data>
@@ -935,36 +944,6 @@
 <edge source="UNAJE" target="Cámara Argentina de Fintech">
   <data key="d2">3</data>
 </edge>
-<edge source="Parabolt" target="SEPYME">
-  <data key="d2">5</data>
-</edge>
-<edge source="Parabolt" target="CAMARCO">
-  <data key="d2">5</data>
-</edge>
-<edge source="Parabolt" target="UNICEN">
-  <data key="d2">5</data>
-</edge>
-<edge source="Parabolt" target="UBA">
-  <data key="d2">4</data>
-</edge>
-<edge source="Parabolt" target="Endeavor Argentina">
-  <data key="d2">2</data>
-</edge>
-<edge source="Parabolt" target="ASEA">
-  <data key="d2">2</data>
-</edge>
-<edge source="Parabolt" target="CienciaPBA">
-  <data key="d2">3</data>
-</edge>
-<edge source="Club Trama" target="ITBA">
-  <data key="d2">1</data>
-</edge>
-<edge source="Club Trama" target="A3">
-  <data key="d2">1</data>
-</edge>
-<edge source="Club Trama" target="Dirección de Emprendedores GCBA">
-  <data key="d2">1</data>
-</edge>
 <edge source="Hacela Rodar" target="Ashoka">
   <data key="d2">3</data>
 </edge>
@@ -987,6 +966,27 @@
   <data key="d2">3</data>
 </edge>
 <edge source="Hacela Rodar" target="ASEA">
+  <data key="d2">2</data>
+</edge>
+<edge source="INICIA" target="SEPYME">
+  <data key="d2">1</data>
+</edge>
+<edge source="INICIA" target="Instituto PYME Banco Ciudad">
+  <data key="d2">3</data>
+</edge>
+<edge source="INICIA" target="Ministerio de Producción y Trabajo">
+  <data key="d2">3</data>
+</edge>
+<edge source="INICIA" target="Dirección de Emprendedores GCBA">
+  <data key="d2">3</data>
+</edge>
+<edge source="INICIA" target="Sistema B">
+  <data key="d2">3</data>
+</edge>
+<edge source="BID" target="Socialab">
+  <data key="d2">4</data>
+</edge>
+<edge source="Ministerio de Producción y Trabajo" target="Hacela Rodar">
   <data key="d2">2</data>
 </edge>
 <edge source="GCBA" target="SEPYME">
