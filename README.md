@@ -4,11 +4,16 @@ This repository is part of the work made during summer 2020 as part of MISTI Mex
 and the team at Global Ecosystem Dynamics Initiative - MIT.
 
 This repository contains files performing data analysis and visualization 
-on innovation-driven ecosystems in cities accross a number of countries. 
-
-As of 09/01/2020, the analysis is performed on the cities of Buenos Aires, Mexico City, 
+on networks representing innovation-driven ecosystems in cities accross a number of countries. As of 09/01/2020, 
+the analysis is performed on the cities of Buenos Aires, Mexico City, 
 Santiago de Chile, Sao Paulo, Montevideo, Madrid, Valencia, Oaxaca, Pachuca, Aguascalientes,
 and Guadalajara.   
+
+Part of the analysis consisted in observing correlational information, based on a Data Base collected by GED - MIT. 
+This Data Base contains information from a total of 106 countries, regarding Socioeconomic Development Indicators, as well as Anthropological Indicators, in particular Hofstede Dimensions. 
+
+Another part of the analysis supports the study of an empirically determined formula which can describe the *health* of an economic system, based on its representation as a network, or a graph. The Methodology of this study is described in detail in `5_random_graphs_script.ipynb` and `6_random_network_analysis.ipynb`, and consists on the application of a series of proposed formulas on a collection of synthetically generated graphs with controlled variations in construction parameters, so as to determine which metric is most *efficient* in determining which graph has a stronger colaboration structure than another. 
+
 
 ## File extensions
 
